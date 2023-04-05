@@ -12,7 +12,7 @@ E-mail :junthima.p@kkumail.com
 
 
 # classDiagram 
-''' mermaid
+```mermaid
 ---
 title: Animal example
 ---
@@ -39,5 +39,6 @@ classDiagram
         +bool is_wild
         +run()
     }
-'''
+
+```
    
