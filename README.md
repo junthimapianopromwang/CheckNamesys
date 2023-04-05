@@ -15,7 +15,7 @@ E-mail :junthima.p@kkumail.com
 
 ```mermaid
 classDiagram
-Piano <|-- P: Shine
+Piano <|-- Pcode: Shine
 <<Interface>> Piano
 Class09 --> C2 : Where am i?
 Class09 --* C3
