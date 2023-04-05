@@ -14,7 +14,9 @@ E-mail :junthima.p@kkumail.com
 ## ClassDiagram
 
 ```mermaid
-เป๊ยโน --|> เกี้ย
+
+ก --|> ข
+ข : มีไข่2ใบ()
 
 
 
