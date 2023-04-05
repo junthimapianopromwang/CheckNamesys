@@ -18,17 +18,7 @@ Form1 --|> information
 <<interface>> Form1
 information --|> From1
 
-note for information "Add"
 
-Classinformation --|> Form1
-Classinformation --|> information
-Classinformation : str No
-Classinformation :str Nameclass
-Classinformation :int marean
-Classinformation :int leave
-
-Resource : DataGrids()
-Resource : Add()
 
 ```
    
