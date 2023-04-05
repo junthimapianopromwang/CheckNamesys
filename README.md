@@ -23,6 +23,7 @@ classDiagram
     Classinformation --|> Form1
     CheckNameStudent <|-- Classinformation
     CheckNameStudent --|> Form1
+    Form1 --|> CheckNameStudent
     class Classinformation{
         -string No
         -string NameClass
