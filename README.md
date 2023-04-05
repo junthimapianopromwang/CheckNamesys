@@ -30,6 +30,5 @@ class Class10 {
   int id
   size()
 }
-}
 ```
    
