@@ -11,22 +11,24 @@ E-mail :junthima.p@kkumail.com
 
 
 
-# classDiagram 
-```mermaid
----
-title: Test
----
-classDiagram
+## ClassDiagram
 
+```mermaid
 Form1 --|> information
 <<interface>> Form1
 information --|> From1
+
 note for information "Add"
-classinformation : str No
-classinformation :str Nameclass
-classinformation :int marean
-classinformation :int leave
+
+Classinformation --|> Form1
+Classinformation --|> information
+Classinformation : str No
+Classinformation :str Nameclass
+Classinformation :int marean
+Classinformation :int leave
+
 Resource : DataGrids()
 Resource : Add()
+
 ```
    
