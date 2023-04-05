@@ -16,7 +16,7 @@ E-mail :junthima.p@kkumail.com
 ```mermaid
 Form1 --|> information
 <<interface>> Form1
-information --|> From1
+
 
 
 
