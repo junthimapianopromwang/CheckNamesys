@@ -13,9 +13,12 @@ E-mail :junthima.p@kkumail.com
 
 # classDiagram 
 ```mermaid
+---
+title: Test
+---
+classDiagram
 
 ก --|> ข
 ข : มีไข่2ใบ()
-
 ```
    
