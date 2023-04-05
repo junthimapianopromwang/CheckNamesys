@@ -15,11 +15,9 @@ E-mail :junthima.p@kkumail.com
 
 ```mermaid
 classDiagram
-Class01 <|-- AveryLongClass : Cool
-<<Interface>> Class01
-Class09 --> C2 : Where am i?
-Class09 --* C3
-Class09 --|> Class07
+Information <|-- Form 
+<<Interface>> Form1
+
 Class07 : equals()
 Class07 : Object[] elementData
 Class01 : size()
