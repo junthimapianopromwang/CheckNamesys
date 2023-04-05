@@ -18,7 +18,15 @@ title: Test
 ---
 classDiagram
 
-ก --|> ข
-ข : มีไข่2ใบ()
+Form1 --|> information
+<<interface>> Form1
+information --|> From1
+note for information "Add"
+classinformation : str No
+classinformation :str Nameclass
+classinformation :int marean
+classinformation :int leave
+Resource : DataGrids()
+Resource : Add()
 ```
    

@@ -13,6 +13,9 @@ namespace รายวิชาที่เปิดสอน
         public string NameClass { get; set; }
         public int marean { get; set; }
         public int kad { get; set; }
+
+        public int leave { get; set; }
+
         public DateTime date { get; set; }
 
       
