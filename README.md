@@ -15,8 +15,8 @@ E-mail :junthima.p@kkumail.com
 
 ```mermaid
 classDiagram
-Piano <|-- Pcode: Shine
-<<Interface>> Piano
+Class01 <|-- AveryLongClass : Cool
+<<Interface>> Class01
 Class09 --> C2 : Where am i?
 Class09 --* C3
 Class09 --|> Class07
@@ -30,6 +30,5 @@ class Class10 {
   int id
   size()
 }
-
 ```
    
