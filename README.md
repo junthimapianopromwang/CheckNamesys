@@ -8,7 +8,11 @@ Name : จันทิมา พรมวัง
 ID  : 6534560280-1
 E-mail :junthima.p@kkumail.com
 
+
+
+
 # classDiagram 
+''' mermaid
 ---
 title: Animal example
 ---
@@ -35,5 +39,5 @@ classDiagram
         +bool is_wild
         +run()
     }
-
+'''
    
