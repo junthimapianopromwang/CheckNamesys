@@ -14,7 +14,7 @@ E-mail :junthima.p@kkumail.com
 ## ClassDiagram
 
 ```mermaid
-Form1 --|> information
+เป๊ยโน --|> เกี้ย
 
 
 
