@@ -18,7 +18,6 @@ E-mail :junthima.p@kkumail.com
 title: ProJect
 ---
 classDiagram
-    note "CheckName"
     ClassStudent --|> Form1
     Classinformation --|> Form1
     CheckNameStudent <|-- Classinformation
